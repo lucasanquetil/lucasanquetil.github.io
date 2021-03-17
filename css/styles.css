@@ -10117,15 +10117,15 @@ section.resume-section .resume-section-content {
 * {box-sizing:border-box}
 
 /* Container for skill bars */
-.container_90 {
+.container90 {
   width: 90%; /* Full width */
   background-color: ##7bcc5b; /* Green background */
 }
-.container_80 {
+.container80 {
   width: 80%; /* Full width */
   background-color: #7bccaa; /* Blue background */
 }
-.container_70 {
+.container70 {
   width: 70%; /* Full width */
   background-color: #7bcccb; /* Bluer background */
 }
