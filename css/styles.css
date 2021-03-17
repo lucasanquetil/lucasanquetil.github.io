@@ -10119,15 +10119,15 @@ section.resume-section .resume-section-content {
 /* Container for skill bars */
 .container90 {
   width: 90%; /* Full width */
-  background-color: #7BCC5B; /* Green background */
+  background-color: rgb(123, 204, 203); /* #7BCC5B Green background */
 }
 .container80 {
   width: 80%; /* Full width */
-  background-color: #7BCCAA; /* Blue background */
+  background-color: rgb(123, 204, 203); /* #7BCCAA Blue background */
 }
 .container70 {
   width: 70%; /* Full width */
-  background-color: #7BCCCB; /* Bluer background */
+  background-color: rgb(123, 204, 203); /* Bluer background */
 }
 
 .skills {
